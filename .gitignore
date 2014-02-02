@@ -1,18 +1,30 @@
 # Object files
+*.d
 *.o
 *.ko
+*.obj
 
 # Libraries
 *.lib
 *.a
+*.ilk
 
 # Shared objects (inc. Windows DLLs)
 *.dll
 *.so
 *.so.*
 *.dylib
+*.manifest
+*.dep
 
 # Executables
-*.exe
 *.out
 *.app
+
+# Project garbage
+*.ncb
+*.suo
+*.user
+*.pdb
+*.idb
+*.pch
