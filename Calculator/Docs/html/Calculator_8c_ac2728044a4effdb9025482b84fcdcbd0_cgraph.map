@@ -1,0 +1,25 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$CalcStack_8c.html#a7994ec9a9953475ab39df8a0af0b23f0" title="findTopmostOpeningBracket" alt="" coords="168,76,355,105"/>
+<area shape="rect" id="node9" href="$Calculator_8c.html#a8012b55c82e54499e754170aecd3cc03" title="writeMessage" alt="" coords="847,232,948,261"/>
+<area shape="rect" id="node11" href="$CalcSymbols_8c.html#a6d4431deeef9cf9e3263c91d7bd9940d" title="arePairBrackets" alt="" coords="204,23,319,52"/>
+<area shape="rect" id="node16" href="$CalcStack_8c.html#ad86abdc6a1ff147de11328c266648f5d" title="getStackTopFrom" alt="" coords="199,180,324,209"/>
+<area shape="rect" id="node18" href="$Calculator_8c.html#a632ff49181c989e965eacf41c1c4fe09" title="evaluate" alt="" coords="227,233,296,263"/>
+<area shape="rect" id="node43" href="$CalcStack_8c.html#a6158799bb993388e529ae8152e556563" title="popStackTop" alt="" coords="212,287,311,316"/>
+<area shape="rect" id="node45" href="$Calculator_8c.html#a8ed688c612f03bf2e0808ec580a898b2" title="pushFoldedIntegerToStack" alt="" coords="172,492,351,521"/>
+<area shape="rect" id="node5" href="$CalcSymbols_8c.html#a867f50e67df3d8a75656ad6debcc7c0d" title="isOpeningBracket" alt="" coords="421,76,547,105"/>
+<area shape="rect" id="node7" href="$CalcSymbols_8c.html#a8882a16e292918358c7b7a27f2b28c0b" title="getOpeningBracketIndex" alt="" coords="613,24,779,53"/>
+<area shape="rect" id="node14" href="$CalcSymbols_8c.html#ac76c84ed0b9384a6a0e8fa34a93be5dc" title="getClosingBracketIndex" alt="" coords="404,23,564,52"/>
+<area shape="rect" id="node21" href="$Calculator_8c.html#a74f20c63d74969705095faee9525bf1e" title="readItem" alt="" coords="448,360,520,389"/>
+<area shape="rect" id="node40" href="$Calculator_8c.html#aaad990c288f214d3bce627ec8ca0d39c" title="addTo" alt="" coords="667,180,725,209"/>
+<area shape="rect" id="node23" href="$CalcSymbols_8c.html#a8cb85c74248d3d29e2fbc8c6dd1f449d" title="isMinusSign" alt="" coords="851,388,944,417"/>
+<area shape="rect" id="node25" href="$CalcSymbols_8c.html#a29e2fd63bf36200f5af56fcada9c2136" title="isSign" alt="" coords="667,439,725,468"/>
+<area shape="rect" id="node31" href="$CalcSymbols_8c.html#a9481b991127bd27e95e805959f8e244d" title="isFoldedExprPrefix" alt="" coords="631,492,761,521"/>
+<area shape="rect" id="node35" href="$Calculator_8c.html#ac3d837c2c01feb184425fb317046568a" title="readUnsignedInteger" alt="" coords="625,335,767,364"/>
+<area shape="rect" id="node27" href="$CalcSymbols_8c.html#ae29ce616bcf45801de0e7f6ef304d66c" title="isPlusSign" alt="" coords="856,441,939,471"/>
+<area shape="rect" id="node33" href="$CalcSymbols_8c.html#ad516dd639f3709c591c7b3f21175ef8d" title="getFoldedExprPrefix" alt="" coords="828,520,967,549"/>
+<area shape="rect" id="node37" href="$CalcSymbols_8c.html#a5d123eae61d07b5f9a37d3b7f83eec41" title="isDigit" alt="" coords="868,335,927,364"/>
+<area shape="rect" id="node47" href="$CalcStack_8c.html#a97d2713b9b93c1b98b34d6942941e22c" title="pushToStack" alt="" coords="435,439,533,468"/>
+<area shape="rect" id="node50" href="$CalcStack_8c.html#a9cacaf90105ba54226661096eabc1019" title="pushStringToStack" alt="" coords="417,492,551,521"/>
+<area shape="rect" id="node52" href="$Calculator_8c.html#ae7c5bbe0840995cf39a67a51d3384a65" title="asString" alt="" coords="449,596,519,625"/>
+<area shape="rect" id="node54" href="$CalcSymbols_8c.html#a8af88fb26e086065d297f9d9c304eae5" title="getMinusSign" alt="" coords="645,596,747,625"/>
+</map>
