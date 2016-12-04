@@ -1,3 +1,3 @@
 *.c linguist-language=C
 *.h linguist-language=C
-docs/* linguist-documentation
+Calculator/Docs/* linguist-documentation
