@@ -2,3 +2,4 @@
 *.h linguist-language=C
 *.html linguist-documentation
 *.js linguist-documentation
+*.css linguist-documentation
