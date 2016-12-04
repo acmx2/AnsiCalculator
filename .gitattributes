@@ -1,5 +1,6 @@
 *.c linguist-language=C
 *.h linguist-language=C
 *.html linguist-documentation=true
+*.htm linguist-documentation=true
 *.js linguist-documentation=true
 *.css linguist-documentation=true
